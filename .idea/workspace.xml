@@ -6,18 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b100725c-03f6-4c86-b472-86d3e3a41a9a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/springControllerTest/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springControllerTest/controller/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springControllerTest/model/entity/CreationDateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springControllerTest/model/entity/CreationDateTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springControllerTest/model/entity/DayDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springControllerTest/model/entity/DayDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springControllerTest/model/entity/DayTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springControllerTest/model/entity/DayTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springControllerTest/model/entity/LastModifyDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springControllerTest/model/entity/LastModifyDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springControllerTest/model/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springControllerTest/model/entity/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springControllerTest/model/entity/YamlConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springControllerTest/model/entity/YamlConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springControllerTest/model/repository/ProductCache2KRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springControllerTest/model/repository/ProductCache2KRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springControllerTest/model/repository/ProductRedisRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springControllerTest/model/repository/ProductRedisRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/springControllerTest/model/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springControllerTest/model/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config.yaml" afterDir="false" />
+    <list default="true" id="b100725c-03f6-4c86-b472-86d3e3a41a9a" name="Default Changelist" comment="adding pom.xml">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -333,7 +326,7 @@
       <workItem from="1564276955360" duration="232000" />
       <workItem from="1564311581765" duration="821000" />
       <workItem from="1564414008551" duration="129000" />
-      <workItem from="1596728077139" duration="496000" />
+      <workItem from="1596728077139" duration="2813000" />
     </task>
     <task id="LOCAL-00001" summary="adding vcs.xml">
       <created>1596728335702</created>
@@ -342,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596728335702</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding pom.xml">
+      <created>1596728596383</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596728596383</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,7 +350,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding vcs.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding vcs.xml" />
+    <MESSAGE value="adding pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding pom.xml" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="566" y="193" width="777" height="735" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1596728567834">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="566" y="193" width="777" height="735" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1596728567834" />
+    <state x="518" y="68" width="874" height="992" key="CommitChangelistDialog2" timestamp="1596739188466">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="518" y="68" width="874" height="992" key="CommitChangelistDialog2/0.34.1920.1046@0.34.1920.1046" timestamp="1596739188466" />
+    <state x="449" y="192" width="1022" height="737" key="SettingsEditor" timestamp="1596740069055">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="449" y="192" width="1022" height="737" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1596740069055" />
+    <state x="555" y="292" width="800" height="536" key="Vcs.Push.Dialog.v2" timestamp="1596739199398">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="555" y="292" width="800" height="536" key="Vcs.Push.Dialog.v2/0.34.1920.1046@0.34.1920.1046" timestamp="1596739199398" />
+    <state x="690" y="217" width="530" height="686" key="git4idea.branch.GitSmartOperationDialog" timestamp="1596729392272">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="690" y="217" width="530" height="686" key="git4idea.branch.GitSmartOperationDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1596729392272" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
