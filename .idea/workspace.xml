@@ -7,9 +7,95 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b100725c-03f6-4c86-b472-86d3e3a41a9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_json_javax_json_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_cache2k_cache2k_api_1_2_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_3_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/untitled1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/untitled1_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/cache2k_api_1_2_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jackson_annotations_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javaee_api_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/javax_json_api_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jedis_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jstl_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/servlet_api_2_5_20081211.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/entity/CreationDateTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/entity/DayDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/entity/DayTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/entity/LastModifyDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/entity/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/entity/YamlConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/repository/ProductCache2KRepository$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/repository/ProductCache2KRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/repository/ProductRedisRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/cache2k-api-1.2.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/cache2k-core-1.2.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/jackson-annotations-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/jackson-core-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/javax.json-api-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/jedis-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-aop-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-aspects-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-beans-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-context-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-context-support-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-core-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-expression-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-instrument-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-jdbc-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-jms-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-messaging-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-orm-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-oxm-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-test-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-tx-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-web-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-webmvc-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-webmvc-portlet-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-websocket-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/resources/theme1/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/resources/theme1/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/resources/theme1/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/resources/theme1/js/jquery.cycle.all.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/resources/theme1/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/resources/theme1/js/mustache.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/entity/CreationDateTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/entity/DayDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/entity/DayTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/entity/LastModifyDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/entity/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/entity/YamlConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/repository/ProductCache2KRepository$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/repository/ProductCache2KRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/repository/ProductRedisRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled1/config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +191,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564016127810" />
@@ -112,9 +199,9 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.36981568" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -362,6 +449,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="adding additional xmls" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="443" y="134" width="1024" height="852" key="#Project_Structure" timestamp="1596752318846">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="443" y="134" width="1024" height="852" key="#Project_Structure/0.34.1920.1046@0.34.1920.1046" timestamp="1596752318846" />
     <state x="566" y="193" width="777" height="735" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1596728567834">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
@@ -370,14 +461,66 @@
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="518" y="68" width="874" height="992" key="CommitChangelistDialog2/0.34.1920.1046@0.34.1920.1046" timestamp="1596741345960" />
+    <state width="1725" height="677" key="GridCell.Tab.0.bottom" timestamp="1596752625523">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1725" height="677" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1596752625523" />
+    <state width="1725" height="677" key="GridCell.Tab.0.center" timestamp="1596752625520">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1725" height="677" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1596752625520" />
+    <state width="1725" height="677" key="GridCell.Tab.0.left" timestamp="1596752625518">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1725" height="677" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1596752625518" />
+    <state width="1725" height="677" key="GridCell.Tab.0.right" timestamp="1596752625522">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1725" height="677" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1596752625522" />
+    <state width="1725" height="677" key="GridCell.Tab.1.bottom" timestamp="1596752625529">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1725" height="677" key="GridCell.Tab.1.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1596752625529" />
+    <state width="1725" height="677" key="GridCell.Tab.1.center" timestamp="1596752625527">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1725" height="677" key="GridCell.Tab.1.center/0.34.1920.1046@0.34.1920.1046" timestamp="1596752625527" />
+    <state width="1725" height="677" key="GridCell.Tab.1.left" timestamp="1596752625525">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1725" height="677" key="GridCell.Tab.1.left/0.34.1920.1046@0.34.1920.1046" timestamp="1596752625525" />
+    <state width="1725" height="677" key="GridCell.Tab.1.right" timestamp="1596752625528">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1725" height="677" key="GridCell.Tab.1.right/0.34.1920.1046@0.34.1920.1046" timestamp="1596752625528" />
+    <state width="1725" height="677" key="GridCell.Tab.2.bottom" timestamp="1596752625532">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1725" height="677" key="GridCell.Tab.2.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1596752625532" />
+    <state width="1725" height="677" key="GridCell.Tab.2.center" timestamp="1596752625531">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1725" height="677" key="GridCell.Tab.2.center/0.34.1920.1046@0.34.1920.1046" timestamp="1596752625531" />
+    <state width="1725" height="677" key="GridCell.Tab.2.left" timestamp="1596752625530">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1725" height="677" key="GridCell.Tab.2.left/0.34.1920.1046@0.34.1920.1046" timestamp="1596752625530" />
+    <state width="1725" height="677" key="GridCell.Tab.2.right" timestamp="1596752625532">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state width="1725" height="677" key="GridCell.Tab.2.right/0.34.1920.1046@0.34.1920.1046" timestamp="1596752625532" />
+    <state x="493" y="215" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1596752361952">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="493" y="215" width="924" height="691" key="Maven.ArtifactSearchDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1596752361952" />
     <state x="743" y="207" width="424" height="707" key="RollbackChangesDialog" timestamp="1596740147457">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="743" y="207" width="424" height="707" key="RollbackChangesDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1596740147457" />
-    <state x="449" y="192" width="1022" height="737" key="SettingsEditor" timestamp="1596740069055">
+    <state x="568" y="189" width="1022" height="737" key="SettingsEditor" timestamp="1596752491912">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="449" y="192" width="1022" height="737" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1596740069055" />
+    <state x="568" y="189" width="1022" height="737" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1596752491912" />
     <state x="555" y="292" width="800" height="536" key="Vcs.Push.Dialog.v2" timestamp="1596741347927">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
@@ -416,81 +559,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>untitled1:war exploded</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Spring</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>untitled1</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>jedis-3.0.1</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
