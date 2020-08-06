@@ -6,97 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b100725c-03f6-4c86-b472-86d3e3a41a9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_json_javax_json_api_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_cache2k_cache2k_api_1_2_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_3_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/untitled1_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/untitled1_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/cache2k_api_1_2_2_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jackson_annotations_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javaee_api_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/javax_json_api_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jedis_3_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jstl_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/servlet_api_2_5_20081211.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/controller/ProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/entity/CreationDateTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/entity/DayDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/entity/DayTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/entity/LastModifyDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/entity/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/entity/YamlConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/repository/ProductCache2KRepository$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/repository/ProductCache2KRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/repository/ProductRedisRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/com/springControllerTest/model/service/ProductService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/classes/config.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/cache2k-api-1.2.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/cache2k-core-1.2.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/jackson-annotations-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/jackson-core-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/javax.json-api-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/jedis-3.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-aop-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-aspects-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-beans-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-context-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-context-support-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-core-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-expression-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-instrument-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-jdbc-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-jms-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-messaging-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-orm-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-oxm-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-test-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-tx-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-web-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-webmvc-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-webmvc-portlet-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/lib/spring-websocket-4.3.18.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/resources/theme1/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/resources/theme1/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/resources/theme1/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/resources/theme1/js/jquery.cycle.all.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/resources/theme1/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/untitled1_war_exploded/resources/theme1/js/mustache.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/controller/ProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/entity/CreationDateTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/entity/DayDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/entity/DayTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/entity/LastModifyDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/entity/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/entity/YamlConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/repository/ProductCache2KRepository$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/repository/ProductCache2KRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/repository/ProductRedisRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/com/springControllerTest/model/service/ProductService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled1/config.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled1.iml" afterDir="false" />
-    </list>
+    <list default="true" id="b100725c-03f6-4c86-b472-86d3e3a41a9a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -436,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596741346045</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding dependencies">
+      <created>1596752655230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596752655230</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +363,8 @@
     <MESSAGE value="adding vcs.xml" />
     <MESSAGE value="adding pom.xml" />
     <MESSAGE value="adding additional xmls" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding additional xmls" />
+    <MESSAGE value="adding dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding dependencies" />
   </component>
   <component name="WindowStateProjectService">
     <state x="443" y="134" width="1024" height="852" key="#Project_Structure" timestamp="1596752318846">
@@ -457,10 +375,10 @@
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="566" y="193" width="777" height="735" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1596728567834" />
-    <state x="518" y="68" width="874" height="992" key="CommitChangelistDialog2" timestamp="1596741345960">
+    <state x="518" y="68" width="874" height="992" key="CommitChangelistDialog2" timestamp="1596752655036">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="518" y="68" width="874" height="992" key="CommitChangelistDialog2/0.34.1920.1046@0.34.1920.1046" timestamp="1596741345960" />
+    <state x="518" y="68" width="874" height="992" key="CommitChangelistDialog2/0.34.1920.1046@0.34.1920.1046" timestamp="1596752655036" />
     <state width="1725" height="677" key="GridCell.Tab.0.bottom" timestamp="1596752625523">
       <screen x="0" y="34" width="1920" height="1046" />
     </state>
